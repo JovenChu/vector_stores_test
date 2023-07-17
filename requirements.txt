@@ -2,4 +2,5 @@ langchain==0.0.146
 milvus
 python-dotenv
 pymilvus==2.0.2
+faiss-cpu
 bs4
