@@ -1,0 +1,2 @@
+# vector_stores_test
+基于milvus和faiss实现文本转向量并存储的流程及简单性能测试
